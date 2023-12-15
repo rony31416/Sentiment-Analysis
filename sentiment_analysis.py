@@ -1,4 +1,5 @@
 import string
+
 from collections import Counter
 import matplotlib.pyplot as plt
 text = open('read.txt',encoding='utf-8').read()
